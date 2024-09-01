@@ -1,5 +1,9 @@
 #Changelog
 
+## v0.4.3
+
+- fix some bugs
+
 ## v0.4.2
 
 - bump for icrc7-mo
